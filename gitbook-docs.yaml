@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: หัดเขียนโค้ดด้วยภาษา Go
+  structure:
+    - type: space
+      key: space-1
+      title: หัดเขียนโค้ดด้วยภาษา Go
+      path: go
+      default: true
+      content:
+        directory: ./go
